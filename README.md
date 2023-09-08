@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I'm a competing powerlifter
 
 ![Itays's github stats](https://github-readme-stats.vercel.app/api?username=saguiitay&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saguiitay&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saguiitay&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
 
